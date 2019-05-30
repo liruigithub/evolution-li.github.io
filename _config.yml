@@ -7,12 +7,12 @@ title: Evo li's Blog
 subtitle: java blog
 description: a java programmer's blog
 author: lirui
-language:
+language: zh-CN 
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://liruigithub.github.io/evolution-li.github.io
+url: http://hexo.geting-evolution.top/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
